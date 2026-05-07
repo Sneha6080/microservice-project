@@ -1,6 +1,6 @@
-package com.msc.user.service.repositories;
+package com.scwd.user.repositories;
 
-import com.msc.user.service.entities.User;
+import com.scwd.user.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, String> {

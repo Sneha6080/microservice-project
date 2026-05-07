@@ -1,6 +1,6 @@
-package com.msc.user.service.exceptions;
+package com.scwd.user.exceptions;
 
-import com.msc.user.service.payloads.ApiResponse;
+import com.scwd.user.payloads.ApiResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

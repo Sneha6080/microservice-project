@@ -1,4 +1,4 @@
-package com.msc.user.service.payloads;
+package com.scwd.user.payloads;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

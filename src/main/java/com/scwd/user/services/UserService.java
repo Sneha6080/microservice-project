@@ -1,7 +1,7 @@
-package com.msc.user.service.services;
+package com.scwd.user.services;
 
-import com.msc.user.service.entities.User;
-import com.msc.user.service.payloads.CommonResponse;
+import com.scwd.user.entities.User;
+import com.scwd.user.payloads.CommonResponse;
 
 import java.util.List;
 

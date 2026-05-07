@@ -1,4 +1,4 @@
-package com.msc.user.service;
+package com.scwd.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

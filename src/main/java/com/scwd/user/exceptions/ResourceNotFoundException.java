@@ -1,4 +1,4 @@
-package com.msc.user.service.exceptions;
+package com.scwd.user.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 

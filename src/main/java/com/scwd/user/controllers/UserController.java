@@ -1,8 +1,8 @@
-package com.msc.user.service.controllers;
+package com.scwd.user.controllers;
 
-import com.msc.user.service.entities.User;
-import com.msc.user.service.payloads.CommonResponse;
-import com.msc.user.service.services.UserService;
+import com.scwd.user.entities.User;
+import com.scwd.user.payloads.CommonResponse;
+import com.scwd.user.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

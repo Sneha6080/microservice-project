@@ -1,4 +1,4 @@
-package com.msc.user.service.entities;
+package com.scwd.user.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

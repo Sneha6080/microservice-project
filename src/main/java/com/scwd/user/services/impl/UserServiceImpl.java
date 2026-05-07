@@ -1,10 +1,10 @@
-package com.msc.user.service.services.impl;
+package com.scwd.user.services.impl;
 
-import com.msc.user.service.entities.User;
-import com.msc.user.service.exceptions.ResourceNotFoundException;
-import com.msc.user.service.payloads.CommonResponse;
-import com.msc.user.service.repositories.UserRepository;
-import com.msc.user.service.services.UserService;
+import com.scwd.user.entities.User;
+import com.scwd.user.exceptions.ResourceNotFoundException;
+import com.scwd.user.payloads.CommonResponse;
+import com.scwd.user.repositories.UserRepository;
+import com.scwd.user.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

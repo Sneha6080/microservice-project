@@ -1,4 +1,4 @@
-package com.msc.user.service;
+package com.scwd.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
